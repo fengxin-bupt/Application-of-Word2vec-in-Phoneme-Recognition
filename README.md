@@ -13,9 +13,13 @@ Encoder: 2*512BLSTM
 Decoder: 2*512LSTM
 
 Network frame work:
- ![image](https://github.com/fengxin-bupt/Application-of-Word2vec-in-Phoneme-Recognition/blob/master/image/network.PNG)
+
+
+![image](https://github.com/fengxin-bupt/Application-of-Word2vec-in-Phoneme-Recognition/blob/master/image/network.PNG)
 
 Result:
- ![image](https://github.com/fengxin-bupt/Application-of-Word2vec-in-Phoneme-Recognition/blob/master/image/result.PNG)
+![image](https://github.com/fengxin-bupt/Application-of-Word2vec-in-Phoneme-Recognition/blob/master/image/result.PNG)
+
+
 This is my paper (《Application of Word2vec in Phoneme Recognition》) about how to make this experiment and result.
 
