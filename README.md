@@ -8,3 +8,4 @@ Our model is built based on phoneme recognition. The datasets used are librispee
 We used a new method in the model. The word2vec model is used to initialize the embedding matrix in the attention model.This can make the distance between the embedding vectors larger, so it can improve the performance of the model.At the same time, in order to solve the overfitting problem of the attention dataset on the attention model.We use a new phoneme inverse mapping strategy to convert more 39 phoneme datasets to 61 phoneme datasets.
 
 This is my paper (《Application of Word2vec in Phoneme Recognition》) about how to make this experiment and result.
+
