@@ -9,8 +9,8 @@ We used a new method in the model. The word2vec model is used to initialize the 
 
 Dataset: Librispeech, TIMIT
 Feature: 40 mel-filterbank + delta + delta delta
-Encoder: 2*512BLSTM
-Decoder: 2*512LSTM
+Encoder: 512BLSTM
+Decoder: 512LSTM
 
 Network frame work:
 
