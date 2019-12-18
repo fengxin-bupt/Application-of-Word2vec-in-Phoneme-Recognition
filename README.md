@@ -21,5 +21,5 @@ Result:
 ![image](https://github.com/fengxin-bupt/Application-of-Word2vec-in-Phoneme-Recognition/blob/master/image/result.PNG)
 
 
-This is my paper (《Application of Word2vec in Phoneme Recognition》) about how to make this experiment and result.
+This is my paper (《Application of Word2vec in Phoneme Recognition》https://arxiv.org/ftp/arxiv/papers/1912/1912.08011.pdf) about how to make this experiment and result.
 
